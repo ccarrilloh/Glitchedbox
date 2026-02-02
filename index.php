@@ -402,7 +402,7 @@
 
 <!-- Hero -->
 <section class="hero">
-  <div class="circle"></div>
+  <!-- <div class="circle"></div> -->
   <div class="hero-content">
       <div class="floating">
             <img src="/assets/img/products/kitsune_rojo_1.png" style="height: 300px;" alt="Kitsune"></img>
