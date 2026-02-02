@@ -5,7 +5,7 @@
   .hero {
   position: relative;
   height: 100vh;
-  background: url('./assets/img/hero.png') no-repeat center top;
+  background: url('/assets/img/hero.png') no-repeat center top;
   background-size: contain; /* En escritorio: imagen completa */
   background-color: #000; /* Fondo de relleno donde no haya imagen */
   display: flex;
